@@ -1,0 +1,33 @@
+Урок 1
+
+Основи HTML і CSS, VS Code
+
+редактор коду
+vs code download
+
+shift 1 -> каркас для html документу
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML CSS Course</title>
+    <style>
+        body {
+            background: red;
+        }
+        h1 {
+            background: white;
+        }
+        h2 {
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <h1> hello world!</h1>
+    <h2>Hello, I'm h2</h2>
+</body>
+</html>
