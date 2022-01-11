@@ -1,14 +1,23 @@
+HTML і CSS
+
 Урок 1
 
 Основи HTML і CSS, VS Code
+
+__________________________________________
 
 редактор коду
 vs code download
 
 shift 1 -> каркас для html документу
 
+cntr s -> save
+
+_______________________
+
 <!DOCTYPE html>
 <html>
+<body>
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -27,7 +36,8 @@ shift 1 -> каркас для html документу
     </style>
 </head>
 <body>
-    <h1> hello world!</h1>
-    <h2>Hello, I'm h2</h2>
+    <h1>hello world!</h1>
+    <h2>I'm h2!</h2>
 </body>
 </html>
+
